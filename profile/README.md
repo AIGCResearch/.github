@@ -1,14 +1,19 @@
 ## Hi there 👋 Welcome to AIGC Research!!! 
 
-We are **AI4C Team (AI for Creativity)**, focusing on artistic content creation, including two pathway: **'AI with Design Thinking'** and **'AI in Creative Workflow'**. The ultimate goal is the democratization of animation film and TV.
+We are the **AI4C Team (AI for Creativity)**, dedicated to advancing artistic content creation. Our work focuses on two key pathways: **"AI with Design Thinking"** and **"AI in Creative Workflows"**. Our ultimate vision is to democratize animation filmmaking and television production. 
 
-我们是**AI4C (AI for Creativity) 小分队**，专注于艺术内容创作，包括**具有设计思维的AI**和**创意工作流中的AI**两条路子。终极目标是实现影视动画制作的民主化。
+If our work resonates with you, we warmly invite you to connect and collaborate with us. Together, let’s shape a novel creative world!
+
+---
+
+我们是**AI4C (AI for Creativity) 小分队**，致力于推动艺术内容创作。我们的工作主要集中在两个关键途径：**“具有设计思维的AI”**和**“创意工作流中的AI”**，终极愿景是使动画电影与电视制作民主化。
+
+如果您对我们的工作感兴趣，我们热忱欢迎您与我们联系与合作。让我们共同塑造一个全新的创意世界！
 
 <div align="center">
-  <img src="../images/AIGC_Research_light.jpg" />
   <div>&nbsp;</div>
   <div align="center">
-    <b><font size="5">personal website</font></b>
+    <b><font size="5">Personal Website</font></b>
     <sup>
       <a href="https://journey-zhuang.github.io/">
         <i><font size="4">HOT</font></i>
@@ -16,6 +21,7 @@ We are **AI4C Team (AI for Creativity)**, focusing on artistic content creation,
     </sup>
 </div>
 <div>&nbsp;</div>
+  <img src="../images/AIGC_Research_light.jpg" />
 </div>
 
 
