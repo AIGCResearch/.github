@@ -5,7 +5,7 @@ Welcome to AIGC Research!!! We are **AI4C Team**, focusing on artistic content c
 
 
 <div align="center">
-  <img src="./images/AIGC_Research_light.jpg" height="100"/>
+  <img src="../images/AIGC_Research_light.jpg" />
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">personal website</font></b>
