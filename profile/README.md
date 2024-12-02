@@ -2,7 +2,22 @@
 
 Welcome to AIGC Research!!! We are **AI4C Team**, focusing on artistic content creation
 
-![Welcome Image](./images/AIGC_Research_light.jpg)
+
+
+<div align="center">
+  <img src="./images/AIGC_Research_light.jpg" height="100"/>
+  <div>&nbsp;</div>
+  <div align="center">
+    <b><font size="5">personal website</font></b>
+    <sup>
+      <a href="https://journey-zhuang.github.io/">
+        <i><font size="4">HOT</font></i>
+      </a>
+    </sup>
+</div>
+<div>&nbsp;</div>
+</div>
+
 
 
 
