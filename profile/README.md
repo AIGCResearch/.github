@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Welcome to AIGC Research!!! 
 
-Welcome to AIGC Research!!! We are **AI4C Team**, focusing on artistic content creation
+We are **AI4C Team**, focusing on artistic content creation
 
 
 
