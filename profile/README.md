@@ -1,8 +1,8 @@
 ## Hi there 👋 Welcome to AIGC Research!!! 
 
-We are **AI4C Team**, focusing on artistic content creation
+We are **AI4C Team (AI for Creativity)**, focusing on artistic content creation, including two pathway: **'AI with Design Thinking'** and **'AI in Creative Workflow'**. The ultimate goal is the democratization of animation film and TV.
 
-
+我们是**AI4C (AI for Creativity) 小分队**，专注于艺术内容创作，包括**具有设计思维的AI**和**创意工作流中的AI**两条路子。终极目标是实现影视动画制作的民主化。
 
 <div align="center">
   <img src="../images/AIGC_Research_light.jpg" />
