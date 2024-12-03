@@ -10,6 +10,8 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
 
 如果您对我们的工作感兴趣，我们热忱欢迎您与我们联系与合作。让我们共同塑造一个全新的创意世界！
 
+微信公众号**AIGC Research**
+
 <div align="center">
   <div>&nbsp;</div>
   <div align="center">
