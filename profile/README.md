@@ -18,7 +18,7 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
     <b><font size="20">Personal Website</font></b>
     <sup>
       <a href="https://journey-zhuang.github.io/">
-        <i><font size="10">HOT</font></i>
+        <i><font size="10">Click me!</font></i>
       </a>
     </sup>
 </div>
