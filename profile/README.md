@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to AIGC Research!!! 
+# 👋 Welcome to AIGC Research!!! 
 
 We are the **AI4C Team (AI for Creativity)**, dedicated to advancing artistic content creation. Our work focuses on two key pathways: **"AI with Design Thinking"** and **"AI in Creative Workflows"**. Our ultimate vision is to democratize animation filmmaking and television production. 
 
@@ -27,6 +27,25 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
 </div>
 
 
+# Publications
+
+### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
+
+**Arxiv**: https://arxiv.org/abs/2504.15281
+
+**Page**: https://styleme3d.github.io/
+
+### ViStoryBench: Comprehensive Benchmark Suite for Story Visualization
+
+**Arxiv**: coming soon
+
+**Page**: https://vistorybench.github.io/
+
+**Code**: https://github.com/vistorybench/vistorybench
+
+**Datasets**: https://huggingface.co/datasets/ViStoryBench/ViStoryBench
+
+### more ...
 
 
 <!--
