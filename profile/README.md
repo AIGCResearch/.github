@@ -37,7 +37,7 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
 
 ### ViStoryBench: Comprehensive Benchmark Suite for Story Visualization
 
-**Arxiv**: coming soon
+**Arxiv**: https://arxiv.org/abs/2505.24862
 
 **Page**: https://vistorybench.github.io/
 
