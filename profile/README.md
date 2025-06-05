@@ -30,20 +30,19 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
 # Publications
 
 ### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
+<a href="https://arxiv.org/abs/2504.15281"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
+<a href="https://styleme3d.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://github.com/AIGCResearch/styleme3d"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
-**Arxiv**: https://arxiv.org/abs/2504.15281
+### ViStoryBench: A Comprehensive Benchmark Suite for Story Visualization
+<a href="https://arxiv.org/abs/2505.24862"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
+<a href="https://github.com/ViStoryBench/vistorybench"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
+<a href="https://huggingface.co/datasets/ViStoryBench/ViStoryBench"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow"></a> &ensp;
+<a href="https://vistorybench.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://vistorybench.github.io/story_detail/"><img src="https://img.shields.io/static/v1?label=Browse%20Results&message=Web&color=green"></a> &ensp;
 
-**Page**: https://styleme3d.github.io/
 
-### ViStoryBench: Comprehensive Benchmark Suite for Story Visualization
 
-**Arxiv**: https://arxiv.org/abs/2505.24862
-
-**Page**: https://vistorybench.github.io/
-
-**Code**: https://github.com/vistorybench/vistorybench
-
-**Datasets**: https://huggingface.co/datasets/ViStoryBench/ViStoryBench
 
 ### more ...
 
