@@ -23,7 +23,7 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
     </sup>
 </div>
 <div>&nbsp;</div>
-  <img src="../images/AIGC_Research_light.jpg" />
+  <img src="../images/AI4C_logo.png" />
 </div>
 
 
