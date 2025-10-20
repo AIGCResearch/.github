@@ -30,21 +30,39 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
 # Publications
 
 ### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
+
+We have always believed that 3D is an inherently interactive, highly controllable, and scalable medium for creative expression.
+
+我们始终认为3D是一种交互友好、可控性与可扩展性高的创作媒介。
+
 <a href="https://arxiv.org/abs/2504.15281"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
 <a href="https://styleme3d.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
 <a href="https://github.com/AIGCResearch/styleme3d"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
 ### ViStoryBench: A Comprehensive Benchmark Suite for Story Visualization
+
+We have established a comprehensive benchmark specifically designed for the core task of cinematic generation: customized visual storytelling.
+
+我们为定制化的视觉故事讲述这一电影生成的核心任务定义了一套综合性基准测试。
+
 <a href="https://arxiv.org/abs/2505.24862"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
 <a href="https://github.com/ViStoryBench/vistorybench"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 <a href="https://huggingface.co/datasets/ViStoryBench/ViStoryBench"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow"></a> &ensp;
 <a href="https://vistorybench.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
 <a href="https://vistorybench.github.io/story_detail/"><img src="https://img.shields.io/static/v1?label=Browse%20Results&message=Web&color=green"></a> &ensp;
 
+### ShotStudio: Towards Comprehensive Film Creation｜From Creativity to Filmmaking
+
+An AIGC-driven film creation framework that integrates cutting-edge technology with creative workflows and continuously evolves, which is a pivotal pioneer and foundation for the field.
+
+一套集成了先进技术与创作流并不断迭代的AIGC电影创作框架是一个重要的先行者与落脚点。
+
+<a href="https://github.com/AIGCResearch/ShotStudio"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
 
 
-### more ...
+
+### more future works...
 
 
 <!--
