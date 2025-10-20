@@ -31,6 +31,9 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
 
 # Publications
 
+### Awesome-PaperDaily: Following the advance of AIGC
+<a href="https://github.com/AIGCResearch/Awesome-PaperDaily"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
+
 ### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
 
 We have always believed that 3D is an inherently interactive, highly controllable, and scalable medium for creative expression.
