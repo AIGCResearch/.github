@@ -10,6 +10,8 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
 
 如果您对我们的工作感兴趣，我们热忱欢迎您与我们联系与合作。让我们共同塑造一个全新的创意世界！
 
+---
+
 *微信公众号**AIGC Research***
 
 <div align="center">
@@ -53,7 +55,7 @@ We have established a comprehensive benchmark specifically designed for the core
 
 ### ShotStudio: Towards Comprehensive Film Creation｜From Creativity to Filmmaking
 
-An AIGC-driven film creation framework that integrates cutting-edge technology with creative workflows and continuously evolves, which is a pivotal pioneer and foundation for the field.
+An AIGC-driven film creation framework that integrates cutting-edge technology with creative workflows and continuously evolves, which is a pivotal pioneer and foundation for exploring in this field.
 
 一套集成了先进技术与创作流并不断迭代的AIGC电影创作框架是一个重要的先行者与落脚点。
 
