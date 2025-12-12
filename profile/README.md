@@ -28,23 +28,23 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
   <img src="../images/AI4C_logo.png" />
 </div>
 
+# Ongoing Work
+### (2026) ViStoryBench-2.0
+
+Adding single-scene multi-shot data and advanced visual narrative evaluation
+
+在已有ViStoryBench数据集上拓展单场景多镜头故事，包含角色与背景参考，并拓展更多叙事评估指标，尤其是视频相关
+
+### (2026) Multi-Shot Video Generation
+
+基于大规模电影数据训练多镜头叙事视频生成
 
 # Publications
 
 ### Awesome-PaperDaily: Following the advance of AIGC
 <a href="https://github.com/AIGCResearch/Awesome-PaperDaily"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
-### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
-
-We have always believed that 3D is an inherently interactive, highly controllable, and scalable medium for creative expression.
-
-我们始终认为3D是一种交互友好、可控性与可扩展性高的创作媒介。
-
-<a href="https://arxiv.org/abs/2504.15281"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
-<a href="https://styleme3d.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
-<a href="https://github.com/AIGCResearch/styleme3d"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
-
-### ViStoryBench: A Comprehensive Benchmark Suite for Story Visualization
+### (2025) ViStoryBench: A Comprehensive Benchmark Suite for Story Visualization
 
 We have established a comprehensive benchmark specifically designed for the core task of cinematic generation: customized visual storytelling.
 
@@ -56,7 +56,7 @@ We have established a comprehensive benchmark specifically designed for the core
 <a href="https://vistorybench.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
 <a href="https://vistorybench.github.io/story_detail/"><img src="https://img.shields.io/static/v1?label=Browse%20Results&message=Web&color=green"></a> &ensp;
 
-### ShotStudio: Towards Comprehensive Film Creation｜From Creativity to Filmmaking
+### (2026) ShotStudio: Towards Comprehensive Film Creation｜From Creativity to Filmmaking
 
 An AIGC-driven film creation framework that integrates cutting-edge technology with creative workflows and continuously evolves, which is a pivotal pioneer and foundation for exploring in this field.
 
@@ -64,8 +64,15 @@ An AIGC-driven film creation framework that integrates cutting-edge technology w
 
 <a href="https://github.com/AIGCResearch/ShotStudio"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
+### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
 
+We have always believed that 3D is an inherently interactive, highly controllable, and scalable medium for creative expression.
 
+我们始终认为3D是一种交互友好、可控性与可扩展性高的创作媒介。
+
+<a href="https://arxiv.org/abs/2504.15281"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
+<a href="https://styleme3d.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
+<a href="https://github.com/AIGCResearch/styleme3d"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
 ### more future works...
 
