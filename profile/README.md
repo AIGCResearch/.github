@@ -25,7 +25,7 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
     </sup>
 </div>
 <div>&nbsp;</div>
-  <img src="../images/AI4C_logo.png" />
+  <img src="../images/AI4C_logo.png" width="500"/>
 </div>
 
 # Ongoing Work
@@ -56,6 +56,10 @@ We have established a comprehensive benchmark specifically designed for the core
 <a href="https://vistorybench.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
 <a href="https://vistorybench.github.io/story_detail/"><img src="https://img.shields.io/static/v1?label=Browse%20Results&message=Web&color=green"></a> &ensp;
 
+<div align="center">
+  <img src="../images/ViStoryBench/teaser.png" height="300" />
+</div>
+
 ### (2026) ShotStudio: Towards Comprehensive Film Creation｜From Creativity to Filmmaking
 
 An AIGC-driven film creation framework that integrates cutting-edge technology with creative workflows and continuously evolves, which is a pivotal pioneer and foundation for exploring in this field.
@@ -73,6 +77,10 @@ We have always believed that 3D is an inherently interactive, highly controllabl
 <a href="https://arxiv.org/abs/2504.15281"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
 <a href="https://styleme3d.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
 <a href="https://github.com/AIGCResearch/styleme3d"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
+
+<div align="center">
+  <img src="../images/HiStyle3D/pipeline.png" height="300" />
+</div>
 
 ### more future works...
 
