@@ -44,7 +44,7 @@ Adding single-scene multi-shot data and advanced visual narrative evaluation
 ### Awesome-PaperDaily: Following the advance of AIGC
 <a href="https://github.com/AIGCResearch/Awesome-PaperDaily"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
-### (2025) ViStoryBench: A Comprehensive Benchmark Suite for Story Visualization
+### (ArXiv 2025, CVPR 2026) ViStoryBench: A Comprehensive Benchmark Suite for Story Visualization
 
 We have established a comprehensive benchmark specifically designed for the core task of cinematic generation: customized visual storytelling.
 
@@ -68,7 +68,7 @@ An AIGC-driven film creation framework that integrates cutting-edge technology w
 
 <a href="https://github.com/AIGCResearch/ShotStudio"><img src="https://img.shields.io/static/v1?label=Code&message=Github&color=blue"></a> &ensp;
 
-### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
+### (ArXiv 2025) StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
 
 We have always believed that 3D is an inherently interactive, highly controllable, and scalable medium for creative expression.
 
