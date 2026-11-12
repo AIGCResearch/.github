@@ -25,7 +25,7 @@ If our work resonates with you, we warmly invite you to connect and collaborate 
     </sup>
 </div>
 <div>&nbsp;</div>
-  <img src="../images/1756.png" width="500"/>
+  <img src="../images/创意人工智能研究院logo-light.png" width="500"/>
 </div>
 
 # Ongoing Work
